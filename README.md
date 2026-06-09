@@ -22,3 +22,4 @@ You don't need Python installed to play!
 3. Double-click the file and enjoy the game!
 
 ## 📸 In Action
+
