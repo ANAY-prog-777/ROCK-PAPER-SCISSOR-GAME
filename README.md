@@ -26,3 +26,6 @@ You don't need Python installed to play!
 
 
 ![Start Screen](https://github.com/ANAY-prog-777/ROCK-PAPER-SCISSOR-GAME/blob/main/Screenshot%202026-06-09%20153419.png?raw=true)
+
+
+![Gameplay Preview](https://github.com/ANAY-prog-777/ROCK-PAPER-SCISSOR-GAME/blob/main/Screenshot%202026-06-09%20154924.png?raw=true)
