@@ -1,5 +1,5 @@
 # ROCK-PAPER-SCISSOR-GAME
-i made this project as a hackclub project its a claassic rock, paper, scissors game built from Python. I designed this as a lightweight, terminal-based project to focus on  logic, user input handling, and creating a fun, interactive experience, its a fun game. built in python and it took around 2-2:30 h
+i made thiis project as a hackclub project its a claassic rock, paper, scissors game built from Python. I designed this as a lightweight, terminal-based project to focus on  logic, user input handling, and creating a fun, interactive experience, its a fun game. built in python and it took around 2-2:30 h
 
 
 ## 🚀 Why I built this
@@ -7,7 +7,7 @@ I wanted to challenge myself to write clean, modular logic for a game that feels
 
 ## ✨ Key Features
 * **Dynamic Gameplay:* Uses the `random` module to ensure the computer's moves are truly unpredictable.
-* **Number Input** - u  can input rock , paper and scissor using 0,1,2 for each
+* **Number Input** - u  can input rock , paper and scisor using 0,1,2 for each
 * **Portable:** Packaged as a standalone `.exe` so you can play without installing Python.
 
 ## 🛠 Tech Stack
@@ -16,8 +16,9 @@ I wanted to challenge myself to write clean, modular logic for a game that feels
 * **Version Control:** Git & GitHub
 
 ## 📥 How to Play
-1. Head to the **[Releases section](YOUR_RELEASE_LINK)**.
-2. Download the `rps_game.exe` file.
-3. Run the file, type your choice, and see if you can beat the computer!
+You don't need Python installed to play!
+1. Go to the [Releases page]
+2. Download RROCK PAPER SCISSOR.exe
+3. Double-click the file and enjoy the game!
 
 ## 📸 In Action
