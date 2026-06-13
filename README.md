@@ -21,9 +21,12 @@ Packaging-> PyInstaller ( for easy installation), btw i had to give 20 min extra
 You don't need Python installed to play!
 
 1.. Download RROCK PAPER SCISSOR.exe
+
 2.. Double-click the file and enjoy the game!
 
---> In uses
+--> In use
+
+
 
 
 
